@@ -1,1 +1,5 @@
 gen/
+bin/classes/
+bin/classes.dex
+bin/resources.ap_
+bin/PlaceRing.apk
